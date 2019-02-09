@@ -193,6 +193,8 @@ a.article:hover {
 }
 
 
+
+
 /* ---------------------------------------------------
     MEDIAQUERIES
 ----------------------------------------------------- */
@@ -213,4 +215,17 @@ a.article:hover {
     #sidebarCollapse span {
         display: none;
     }
+
+    .img-responsive{
+  	max-width: 100%;
+  	height: auto;
 }
+
+}
+
+/*@media screen and (max-width: 368px) {
+    img.smallResolution{
+        min-height: 1000px;
+    }
+
+}*/
