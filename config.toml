@@ -1,7 +1,7 @@
 baseURL = 'https://www.prithvijj.ca/'
 languageCode = 'en-us'
 title = 'Prithvi Jethwa'
-theme = 'poison'
+theme = "poison"
 paginate = 10
 
 
