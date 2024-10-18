@@ -45,7 +45,7 @@ enableEmoji = true
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote 
     # Value is within the `static` folder
     brand_image = "/images/prits_logo_dark_cropped.png"    # path to the image shown in the sidebar
-    description = "Software Developer" # Used as default meta description if not specified in front matter
+    description = "Senior Software Developer" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
